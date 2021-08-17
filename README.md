@@ -13,7 +13,7 @@ This module requires the panel to be on version 1.0.0 and above, if you need one
 1. Download/Git clone this repository.  
 2. Move the ``pterodactyl/`` folder into ``<path to whmcs>/modules/servers/``.
 3. Create API Credentials with these permissions: ![Image](https://owo.whats-th.is/fa1eee.png)
-4. In WHMCS navigate to Setup > Products/Services > Servers
+4. In WHMCS navigate to System Settings > Servers
 5. Create new server, fill the name with anything you want, hostname as the url to the panel either as an IP or domain. For example: ``123.123.123.123`` or ``my.pterodactyl.panel``
 6. Change Server Type to Pterodactyl, leave username empty, fill the password field with your generated API Key.
 7. Tick the "Secure" option if your panel is using SSL.
@@ -27,7 +27,8 @@ This module requires the panel to be on version 1.0.0 and above, if you need one
 ## Credits
 [Dane](https://github.com/DaneEveritt) and [everyone else](https://github.com/Pterodactyl/Panel/graphs/contributors) involved in development of the Pterodactyl Panel.  
 [death-droid](https://github.com/death-droid) for the original WHMCS module.  
-[Crident](https://crident.com) for providing me a dev environment to test the module on and the installation video.  
+[Crident](https://crident.com) for providing me a dev environment to test the module on and the installation video. 
+[Rowan](https://volthosting.co.uk) editing the documentation and providing a updated youtube video.
 
 # FAQ
 
